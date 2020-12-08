@@ -6,8 +6,11 @@
 
 -Password Cracking
 --Hashes.org
+---https://hashes.org/left.php
+----Complete Found in Plain $currentyear
 ---Hashcat
 ---JtR
+https://github.com/NotSoSecure/password_cracking_rules/blob/master/OneRuleToRuleThemAll.rule
 
 -Active Directory Vulns
 --Golden Ticket
