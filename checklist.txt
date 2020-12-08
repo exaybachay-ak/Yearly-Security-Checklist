@@ -1,0 +1,13 @@
+-War Games
+--Gracker
+
+-Buffer Overflows
+--Protostar
+
+-Password Cracking
+--Hashcat
+--JtR
+
+-Active Directory Vulns
+--Golden Ticket
+--Service Tickets
