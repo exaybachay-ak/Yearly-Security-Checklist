@@ -5,8 +5,9 @@
 --Protostar
 
 -Password Cracking
---Hashcat
---JtR
+--Hashes.org
+---Hashcat
+---JtR
 
 -Active Directory Vulns
 --Golden Ticket
